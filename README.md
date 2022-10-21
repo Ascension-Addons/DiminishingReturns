@@ -1,3 +1,3 @@
-# Addon Name
+# Diminishing Returns
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for Diminishing Returns. Modified for Ascension.gg. 
