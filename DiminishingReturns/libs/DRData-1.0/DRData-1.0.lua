@@ -406,6 +406,12 @@ Data.spells = {
 	-- Psychic Horror
 	[64044] = "horror",
 	
+	-- Blood Horror
+	[954517] = "horror",
+	[954563] = "horror",
+	[954565] = "horror",
+	[954567] = "horror",
+	
 	--[[ MISC ]]--
 	-- Scatter Shot
 	[19503] = "disorient",
@@ -497,7 +503,7 @@ Data.spells = {
 	[977966] = "disorient",
 	
 	-- Stoneclaw Petrification
-	[954121] = "disorient",
+	[954121] = "horror",
 	
 	-- Stormherald
 	[34510] = "ctrlstun",
@@ -507,6 +513,10 @@ Data.spells = {
 	
 	-- Light of Justice
 	[977953] = "ctrlstun",
+	
+	-- Ring of Frost
+	[954855] = "horror",
+	
 }
 
 -- DR Category names
